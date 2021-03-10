@@ -20,7 +20,7 @@
         android:enabled="true"
         android:id="@+id/chatting"
         android:title="채팅"
-        android:icon="@drawable/chat"/>
+        android:icon="@drawable/chatting"/>
     <item
         android:enabled="true"
         android:visible="true"
